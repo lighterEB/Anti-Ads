@@ -1,2 +1,3 @@
 baidu.com###results>div[data-log*='mbd.baidu.com/ma/tips?appKey']
 baidu.com###header > div:last-child
+||baidu.com
