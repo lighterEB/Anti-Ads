@@ -1264,3 +1264,4 @@ admin5.com##.float_both,div.sherry_ad1,div.specialBox,.content_right_ad
 ||17173.com/if/$subdocument
 ||17173.com/x/$script,subdocument,object,object-subrequest
 ||17173.itc.cn/2013/www/if/$image,object,object-subrequest
+##div:nth-of-type(6)
