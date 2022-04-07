@@ -7,3 +7,5 @@
 !
 ! ----------------------百度------------------------------
 baidu.com#?#.ec_wise_ad
+m.baidu.com##.ec_wise_ad
+m5.baidu.com##.ec_wise_ad
