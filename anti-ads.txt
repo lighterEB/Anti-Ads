@@ -59,3 +59,5 @@ zhuanlan.zhihu.com#%#AG_onLoad(function(){var c=!1,b=new MutationObserver(functi
 ||zhihui.ink^
 ||zhihuirenjia.xyz^
 ||zhihuizeyuan.com^
+zhihu.com###root > div.App > div:nth-child(2)
+zhihu.com###root > div.App > main.App-main:last-child > div.Question-mainEntity > button.OpenInAppButton.OpenInApp.css-cazai8:last-child
