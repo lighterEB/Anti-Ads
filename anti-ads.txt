@@ -1,11 +1,24 @@
 [Adblock Plus 2.0]
-! Title: Anti ads with ADBP+ for Samsung Browser
+! Title: Anti ads for Samsung Browser
 ! Powerd by T0s1x7
 ! Expires: 8 Hours
 ! Description: 手动整理常用网址去广告规则，更加符合个人习惯
 ! Version: 2022-04-07 10:05:40（北京时间） 
-!
-! ----------------------百度------------------------------
-baidu.com#?#.ec_wise_ad
-m.baidu.com##.ec_wise_ad
-m5.baidu.com##.ec_wise_ad
+mbd.baidu.com###page_wrapper > div > div.qw6z1OYrd4cV-JmF:last-child
+m.huya.com###root > div.ssr-wrapper > div.pop-download:last-child
+m.huya.com###root > div.ssr-wrapper > div:nth-child(2)
+mbd.baidu.com###page_wrapper > div.other > div.uukjsi6a_zpZccrqYiI3k._3RmxTKlPzuCkzYl1ZqE2yE.undefined:nth-child(5)
+mbd.baidu.com###content_wrapper > div.headDeflectorContainer:first-child
+mbd.baidu.com###page_wrapper > div.other > div:nth-child(3) > div > div._3cAIWshMtS86T-V_NTTzch:first-child
+mbd.baidu.com###app > div.main.main-new > div._1etYk.mergeVideoTop.guid-new:first-child
+mbd.baidu.com###app > div.main.main-new > div.oN7Lr:last-child > div._2UlGM:first-child > div._2tCbX:first-child
+mbd.baidu.com##div.drag-wrap.drag-bottom:nth-child(6)
+baijiahao.baidu.com###content_wrapper > div.headDeflectorContainer:first-child
+baijiahao.baidu.com###page_wrapper > div.other > div:nth-child(4) > div > div._3cAIWshMtS86T-V_NTTzch:first-child
+baidu.com###super-frame > div.sfa-view.active > b-superframe-body.sfa-body:last-child > div.sfa-content > div.sfc-video-page.c-container:last-child > div:last-child > div.sfc-video-page-info:first-child > div.sfc-video-page-index-info-cambrian:nth-child(4)
+mbd.baidu.com###page_wrapper > div > div.related-news:nth-child(3) > section.hasEndLine.qw6z1OYr28eV-JmF:first-child > div.qw6z1OYr21aV-JmF:first-child
+blog.csdn.net###csdn-toolbar
+blog.csdn.net###main > div.aside-header-fixed:first-child
+blog.csdn.net###first_recommend_list
+blog.csdn.net###comment
+blog.csdn.net###recommend
