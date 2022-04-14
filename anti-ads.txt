@@ -56,3 +56,4 @@ weibo.com#?#tr:-abp-has(> .td-03 > .icon-txt-recommend)
 ||zdcj.net/html/weibo
 ~weibo.com##.con_ad
 ~weibo.com##a[href^="http://service.weibo.com/share/share.php"]
+weibo.cn###app > div.main-wrap:first-child > div.login-box:nth-child(3)
