@@ -61,3 +61,4 @@ weibo.cn###app > div.main-wrap:first-child > div.login-box:nth-child(3)
 ||api.bilibili.com/x/web-interface/zone^
 bilibili.com###app > div.video > div.m-video-new.sticky > div.m-navbar:first-child
 bilibili.com###app > div.video > div.m-video-new.sticky > div.launch-app-btn.m-video-main-launchapp.visible-open-app-btn:nth-child(3) > div.m-video2-main-img
+||feed.baidu.com/feed/api/wise/getwiseafdads^
