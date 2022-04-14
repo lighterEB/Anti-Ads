@@ -23,38 +23,4 @@ blog.csdn.net###first_recommend_list
 blog.csdn.net###comment
 blog.csdn.net###recommend
 baijiahao.baidu.com###page_wrapper > div.other > 
-zhihu.com##.AdblockBanner
-zhihu.com##.Banner-link
-zhihu.com##.Banner-link + .Pc-card-button-close
-zhihu.com##.Card.Banner
-zhihu.com##.MBannerAd
-zhihu.com##.MHotFeedAd
-zhihu.com##.MRelateFeedAd
-zhihu.com##.MobileAppHeader-downloadLink
-zhihu.com##.OpenInAppButton
-zhihu.com##.Pc-word
-zhihu.com##.QuestionAdBanner
-zhihu.com##.RelatedReadings-adItem
-zhihu.com##.TopstoryItem--advertCard
-zhihu.com##.ViewAllInappCard
-zhihu.com##.WeiboAd-wrap
-zhihu.com##div[data-type="ad"]
-zhihu.com#$#.Body--Mobile .ContentItem .RichContent--unescapable > .RichContent-inner:not([style]) + button.ContentItem-expandButton { display: none !important; }
-zhihu.com#$#body.ModalWrap-body { overflow: visible !important; }
-zhihu.com#$?#.ContentItem > div.ModalWrap:has(> div > div.ModalExp-content > div.ModalWrap-content > div:contains(继续浏览内容)) { display: none!important; }
-zhihu.com#%#//scriptlet('remove-attr', 'style', '.Body--Mobile .ContentItem .RichContent--unescapable > .RichContent-inner[style^="max-height:"]')
-zhihu.com#%#//scriptlet('remove-class', 'is-collapsed', '.Body--Mobile .ContentItem .is-collapsed.RichContent--unescapable')
-zhihu.com#?#.TopstoryItem:-abp-has(.Popover > .TopstoryItem-advertButton)
-zhihu.com,vprok.ru,raysigorta.com.tr,m.sportmaster.ru,i2symbol.com#$#body { overflow: visible!important; }
-zhuanlan.zhihu.com#%#AG_onLoad(function(){var c=!1,b=new MutationObserver(function(){var a=document.querySelector("button.AppHeader-login");a&&!c&&(c=!0,a.addEventListener("click",function(){b.disconnect()}));(a=document.querySelector(".Modal-wrapper .signFlowModal > .Modal-closeButton"))&&(b.disconnect(),a.click())});b.observe(document,{childList:!0,subtree:!0});setTimeout(function(){b.disconnect()},5E3)});
-||bozhihua.com^$third-party
-||zhihu-web-analytics.zhihu.com/api/v*/logs^
-||zhihu.com/api/*banners/
-||zhihu.com/commercial_api/banners_
-||zhihu.com/node/Banner?
-||zhihu.xmcimg.com^
-||zhihui.ink^
-||zhihuirenjia.xyz^
-||zhihuizeyuan.com^
 zhihu.com###root > div.App > div:nth-child(2)
-zhihu.com###root > div.App > main.App-main:last-child > div.Question-mainEntity > button.OpenInAppButton.OpenInApp.css-cazai8:last-child
