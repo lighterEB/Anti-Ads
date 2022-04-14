@@ -57,3 +57,7 @@ weibo.com#?#tr:-abp-has(> .td-03 > .icon-txt-recommend)
 ~weibo.com##.con_ad
 ~weibo.com##a[href^="http://service.weibo.com/share/share.php"]
 weibo.cn###app > div.main-wrap:first-child > div.login-box:nth-child(3)
+||api.bilibili.com/x/player/v2^
+||api.bilibili.com/x/web-interface/zone^
+bilibili.com###app > div.video > div.m-video-new.sticky > div.m-navbar:first-child
+bilibili.com###app > div.video > div.m-video-new.sticky > div.launch-app-btn.m-video-main-launchapp.visible-open-app-btn:nth-child(3) > div.m-video2-main-img
