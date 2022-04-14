@@ -23,3 +23,39 @@ blog.csdn.net###first_recommend_list
 blog.csdn.net###comment
 blog.csdn.net###recommend
 baijiahao.baidu.com###page_wrapper > div.other > div.uukjsi6a_zpZccrqYiI3k._3RmxTKlPzuCkzYl1ZqE2yE.undefined:nth-child(6)
+0379home.com,100ec.cn,123.com.cn,159i.com,22vd.com,2345.cn,234fang.com,265g.com,2j0.cn,3gsc.com.cn,52youpiao.com,72g.com,acg.bz,acg13.cn,acgbenzi.com,baiduyunpan.net,baike.com,bbs-mychat.com,cdyee.com,ce.cn,chinaqking.com,chinatimes.com,chinatruck.org,chinaz.com,cnforex.com,cnsoftnews.com,codepub.com,cq.xinhuanet.com,cxryun.cn,dav01.com,discuss.com.hk,djwma.com,dmzj.com,dmzj1.com,douban.com,dzwww.com,eastday.com,fengniao.com,focus.cn,fx112.com,gongkong.com,henan100.com,honglingjin.co.uk,house.jschina.com.cn,iciba.com,ifeng.com,ipeen.com.tw,isharebest.com,itavcn.com,jojf.cn,jrj.com.cn,kumi.cn,landian.vip,landiannews.com,lawtv.com.cn,lieyunwang.com,lncn.org,loveshang.com,luo8.com,maxpda.com,mengzhan521.com,mm111.net,moxing.net,mvcat.com,ncdiy.com,neotv.com.cn,newsmth.net,njdaily.cn,onlinedown.net,pc0359.cn,people.com.cn,pharmnet.com.cn,pixnet.net,pptv.com,ptbus.com,qncye.com,r3sub.com,sogou.com,sozi.cn,tv.sohu.com,u-car.com.tw,wallstreetcn.com,weather.com.cn,xs99.cc,xun9u.com,xyfdcw.com.cn,yawin.cn,yb983.com,ydss.cn,yesky.com,yiche.com,yqxs.net,zhihu.com,ziyuanyo.com,zjstv.com##.ad
+@@||app-advertise.zhihuishu.com^
+businessreview.global,zhihuishu.com#@#.sharing
+zhihu.com##.AdblockBanner
+zhihu.com##.Banner-link
+zhihu.com##.Banner-link + .Pc-card-button-close
+zhihu.com##.Card.Banner
+zhihu.com##.MBannerAd
+zhihu.com##.MHotFeedAd
+zhihu.com##.MRelateFeedAd
+zhihu.com##.MobileAppHeader-downloadLink
+zhihu.com##.OpenInAppButton
+zhihu.com##.Pc-word
+zhihu.com##.QuestionAdBanner
+zhihu.com##.RelatedReadings-adItem
+zhihu.com##.TopstoryItem--advertCard
+zhihu.com##.ViewAllInappCard
+zhihu.com##.WeiboAd-wrap
+zhihu.com##div[data-type="ad"]
+zhihu.com#$#.Body--Mobile .ContentItem .RichContent--unescapable > .RichContent-inner:not([style]) + button.ContentItem-expandButton { display: none !important; }
+zhihu.com#$#body.ModalWrap-body { overflow: visible !important; }
+zhihu.com#$?#.ContentItem > div.ModalWrap:has(> div > div.ModalExp-content > div.ModalWrap-content > div:contains(继续浏览内容)) { display: none!important; }
+zhihu.com#%#//scriptlet('remove-attr', 'style', '.Body--Mobile .ContentItem .RichContent--unescapable > .RichContent-inner[style^="max-height:"]')
+zhihu.com#%#//scriptlet('remove-class', 'is-collapsed', '.Body--Mobile .ContentItem .is-collapsed.RichContent--unescapable')
+zhihu.com#?#.TopstoryItem:-abp-has(.Popover > .TopstoryItem-advertButton)
+zhihu.com,vprok.ru,raysigorta.com.tr,m.sportmaster.ru,i2symbol.com#$#body { overflow: visible!important; }
+zhuanlan.zhihu.com#%#AG_onLoad(function(){var c=!1,b=new MutationObserver(function(){var a=document.querySelector("button.AppHeader-login");a&&!c&&(c=!0,a.addEventListener("click",function(){b.disconnect()}));(a=document.querySelector(".Modal-wrapper .signFlowModal > .Modal-closeButton"))&&(b.disconnect(),a.click())});b.observe(document,{childList:!0,subtree:!0});setTimeout(function(){b.disconnect()},5E3)});
+||bozhihua.com^$third-party
+||zhihu-web-analytics.zhihu.com/api/v*/logs^
+||zhihu.com/api/*banners/
+||zhihu.com/commercial_api/banners_
+||zhihu.com/node/Banner?
+||zhihu.xmcimg.com^
+||zhihui.ink^
+||zhihuirenjia.xyz^
+||zhihuizeyuan.com^
