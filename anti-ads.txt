@@ -24,3 +24,35 @@ blog.csdn.net###comment
 blog.csdn.net###recommend
 baijiahao.baidu.com###page_wrapper > div.other > 
 zhihu.com###root > div.App > div:nth-child(2)
+@@/images/*_share.png$domain=service.weibo.com
+@@||manhua.weibo.com/adv/
+@@||sinaimg.cn^$stealth,domain=weibo.com
+@@||sinajs.cn/open/analytics/js/suda.js$domain=weibo.com|~widget.weibo.com
+@@||weibo.com/api/weipan/getAds
+@@||weibo.com/share/share.php$generichide
+dealmoon.com,weibo.com##.pic_ad
+manhua.weibo.com###p-nav-fix + .p-area.w980
+weibo.com###pl_common_ali
+weibo.com##.UG_bn_a
+weibo.com##.tag_showTopicL[href^="https://shop.sc.weibo.com/"]
+weibo.com##div[ad-data]
+weibo.com##div[class^="HotTopic_doticon_"] + div[class^="HotTopic_tit_"]
+weibo.com##div[feedtype="ad"]
+weibo.com#?#.card-content > ul > li:-abp-has(> p > .icon-txt-recommend)
+weibo.com#?#.card-content > ul > li:-abp-has(>a[action-type="realtimehot_ad"])
+weibo.com#?#.card-wrap:-abp-has(> .card-film > .card-head > .title:-abp-contains(广告))
+weibo.com#?#.vue-recycle-scroller__item-view:-abp-has(.wbpro-ad-tag:-abp-contains(广告))
+weibo.com#?#.vue-recycle-scroller__item-view:-abp-has(div[class^="head-info_authtag_"]>img[src^="data"])
+weibo.com#?#.vue-recycle-scroller__item-view:-abp-has(img[class^="head-info_authicon_"][src^="data"])
+weibo.com#?#.wbpro-side-panel:-abp-has(span[class^="wbpro-icon-search"]:-abp-contains(商))
+weibo.com#?#tr:-abp-has(> .td-03 > .icon-txt-recommend)
+||alitui.weibo.com^
+||s.weibo.com/widget.html
+||weibo.*^$removeparam=dt_dapp
+||weibo.*^$removeparam=weibo_id
+||weibo.com/ajax/feed/getTipsAd?
+||weibo.com/ajax/log/
+||weiboyaya.cn^
+||zdcj.net/html/weibo
+~weibo.com##.con_ad
+~weibo.com##a[href^="http://service.weibo.com/share/share.php"]
