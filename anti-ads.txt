@@ -22,3 +22,4 @@ blog.csdn.net###main > div.aside-header-fixed:first-child
 blog.csdn.net###first_recommend_list
 blog.csdn.net###comment
 blog.csdn.net###recommend
+baijiahao.baidu.com###page_wrapper > div.other > div.uukjsi6a_zpZccrqYiI3k._3RmxTKlPzuCkzYl1ZqE2yE.undefined:nth-child(6)
