@@ -64,3 +64,6 @@ bilibili.com###app > div.video > div.m-video-new.sticky > div.launch-app-btn.m-v
 ||feed.baidu.com/feed/api/wise/getwiseafdads^
 juejin.cn###juejin > div.view-container.container:first-child > div.main-header-box:first-child > header.main-header.unauthorized.visible > div.container > nav.main-nav:last-child > ul.nav-list > ul.right-side-nav:last-child
 juejin.cn###juejin > div.view-container.container:first-child > div.open-button.app-open-button:last-child
+tieba.baidu.com##.open-app
+tieba.baidu.com##.logo-wrapper
+tieba.baidu.com##.nav-bar-v2
