@@ -14,7 +14,6 @@ mbd.baidu.com###app > div.main.main-new > div._1etYk.mergeVideoTop.guid-new:firs
 mbd.baidu.com###app > div.main.main-new > div.oN7Lr:last-child > div._2UlGM:first-child > div._2tCbX:first-child
 mbd.baidu.com##div.drag-wrap.drag-bottom:nth-child(6)
 baijiahao.baidu.com###content_wrapper > div.headDeflectorContainer:first-child
-baijiahao.baidu.com###page_wrapper > div.other > div:nth-child(4) > div > div._3cAIWshMtS86T-V_NTTzch:first-child
 baidu.com###super-frame > div.sfa-view.active > b-superframe-body.sfa-body:last-child > div.sfa-content > div.sfc-video-page.c-container:last-child > div:last-child > div.sfc-video-page-info:first-child > div.sfc-video-page-index-info-cambrian:nth-child(4)
 mbd.baidu.com###page_wrapper > div > div.related-news:nth-child(3) > section.hasEndLine.qw6z1OYr28eV-JmF:first-child > div.qw6z1OYr21aV-JmF:first-child
 blog.csdn.net###csdn-toolbar
@@ -22,7 +21,7 @@ blog.csdn.net###main > div.aside-header-fixed:first-child
 blog.csdn.net###first_recommend_list
 blog.csdn.net###comment
 blog.csdn.net###recommend
-baijiahao.baidu.com###page_wrapper > div.other > 
+||mbd.baidu.com/newspage/data/voicelandingshare?mid=2201&getTpl=0&isStar=1&cb=boxjs4$domain=baijiahao.baidu.com
 zhihu.com###root > div.App > div:nth-child(2)
 @@/images/*_share.png$domain=service.weibo.com
 @@||manhua.weibo.com/adv/
