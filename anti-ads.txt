@@ -3,66 +3,11 @@
 ! Powerd by T0s1x7
 ! Expires: 8 Hours
 ! Description: 手动整理常用网址去广告规则，更加符合个人习惯
-! Version: 2022-04-07 10:05:40（北京时间） 
-mbd.baidu.com###page_wrapper > div > div.qw6z1OYrd4cV-JmF:last-child
-m.huya.com###root > div.ssr-wrapper > div.pop-download:last-child
-m.huya.com###root > div.ssr-wrapper > div:nth-child(2)
-mbd.baidu.com###page_wrapper > div.other > div.uukjsi6a_zpZccrqYiI3k._3RmxTKlPzuCkzYl1ZqE2yE.undefined:nth-child(5)
-mbd.baidu.com###content_wrapper > div.headDeflectorContainer:first-child
-mbd.baidu.com###page_wrapper > div.other > div:nth-child(3) > div > div._3cAIWshMtS86T-V_NTTzch:first-child
-mbd.baidu.com###app > div.main.main-new > div._1etYk.mergeVideoTop.guid-new:first-child
-mbd.baidu.com###app > div.main.main-new > div.oN7Lr:last-child > div._2UlGM:first-child > div._2tCbX:first-child
-mbd.baidu.com##div.drag-wrap.drag-bottom:nth-child(6)
+! Version: 2022-05-07 11:46:40（北京时间） 
+! *-------------------baidu-------------------*
+||mbdp02.bdstatic.com/static/landing-share/$domain=baijiahao.baidu.com
+||s.bdstatic.com/common/openjs/$domain=baijiahao.baidu.com
+||res.wx.qq.com/open/js/$domain=baijiahao.baidu.com
 baijiahao.baidu.com###content_wrapper > div.headDeflectorContainer:first-child
-baidu.com###super-frame > div.sfa-view.active > b-superframe-body.sfa-body:last-child > div.sfa-content > div.sfc-video-page.c-container:last-child > div:last-child > div.sfc-video-page-info:first-child > div.sfc-video-page-index-info-cambrian:nth-child(4)
-mbd.baidu.com###page_wrapper > div > div.related-news:nth-child(3) > section.hasEndLine.qw6z1OYr28eV-JmF:first-child > div.qw6z1OYr21aV-JmF:first-child
-blog.csdn.net###csdn-toolbar
-blog.csdn.net###main > div.aside-header-fixed:first-child
-blog.csdn.net###first_recommend_list
-blog.csdn.net###comment
-blog.csdn.net###recommend
-||mbd.baidu.com/newspage/data/voicelandingshare?mid=2201&getTpl=0&isStar=1&cb=boxjs4$domain=baijiahao.baidu.com
-zhihu.com###root > div.App > div:nth-child(2)
-@@/images/*_share.png$domain=service.weibo.com
-@@||manhua.weibo.com/adv/
-@@||sinaimg.cn^$stealth,domain=weibo.com
-@@||sinajs.cn/open/analytics/js/suda.js$domain=weibo.com|~widget.weibo.com
-@@||weibo.com/api/weipan/getAds
-@@||weibo.com/share/share.php$generichide
-dealmoon.com,weibo.com##.pic_ad
-manhua.weibo.com###p-nav-fix + .p-area.w980
-weibo.com###pl_common_ali
-weibo.com##.UG_bn_a
-weibo.com##.tag_showTopicL[href^="https://shop.sc.weibo.com/"]
-weibo.com##div[ad-data]
-weibo.com##div[class^="HotTopic_doticon_"] + div[class^="HotTopic_tit_"]
-weibo.com##div[feedtype="ad"]
-weibo.com#?#.card-content > ul > li:-abp-has(> p > .icon-txt-recommend)
-weibo.com#?#.card-content > ul > li:-abp-has(>a[action-type="realtimehot_ad"])
-weibo.com#?#.card-wrap:-abp-has(> .card-film > .card-head > .title:-abp-contains(广告))
-weibo.com#?#.vue-recycle-scroller__item-view:-abp-has(.wbpro-ad-tag:-abp-contains(广告))
-weibo.com#?#.vue-recycle-scroller__item-view:-abp-has(div[class^="head-info_authtag_"]>img[src^="data"])
-weibo.com#?#.vue-recycle-scroller__item-view:-abp-has(img[class^="head-info_authicon_"][src^="data"])
-weibo.com#?#.wbpro-side-panel:-abp-has(span[class^="wbpro-icon-search"]:-abp-contains(商))
-weibo.com#?#tr:-abp-has(> .td-03 > .icon-txt-recommend)
-||alitui.weibo.com^
-||s.weibo.com/widget.html
-||weibo.*^$removeparam=dt_dapp
-||weibo.*^$removeparam=weibo_id
-||weibo.com/ajax/feed/getTipsAd?
-||weibo.com/ajax/log/
-||weiboyaya.cn^
-||zdcj.net/html/weibo
-~weibo.com##.con_ad
-~weibo.com##a[href^="http://service.weibo.com/share/share.php"]
-weibo.cn###app > div.main-wrap:first-child > div.login-box:nth-child(3)
-||api.bilibili.com/x/player/v2^
-||api.bilibili.com/x/web-interface/zone^
-bilibili.com###app > div.video > div.m-video-new.sticky > div.m-navbar:first-child
-bilibili.com###app > div.video > div.m-video-new.sticky > div.launch-app-btn.m-video-main-launchapp.visible-open-app-btn:nth-child(3) > div.m-video2-main-img
-||feed.baidu.com/feed/api/wise/getwiseafdads^
-juejin.cn###juejin > div.view-container.container:first-child > div.main-header-box:first-child > header.main-header.unauthorized.visible > div.container > nav.main-nav:last-child > ul.nav-list > ul.right-side-nav:last-child
-juejin.cn###juejin > div.view-container.container:first-child > div.open-button.app-open-button:last-child
-tieba.baidu.com##.open-app
-tieba.baidu.com##.logo-wrapper
-tieba.baidu.com##.nav-bar-v2
+||mss0.bdstatic.com/se/static/js/iphone/async/$domain=m.baidu.com
+||mbdp02.bdstatic.com/static/landing-wise/$domain=baidu.com
