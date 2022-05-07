@@ -11,6 +11,9 @@
 baijiahao.baidu.com###content_wrapper > div.headDeflectorContainer:first-child
 ||mss0.bdstatic.com/se/static/js/iphone/async/$domain=m.baidu.com
 ||mbdp02.bdstatic.com/static/landing-wise/$domain=baidu.com
+||mbd.baidu.com/ztbox^$domain=baidu.com
+||sm.bdimg.com/static/wiseindex/js/lib/transfer/common/mcp_invoke_*.js$domain=baidu.com
+||sm.bdimg.com/static/wiseindex/amd_modules/@baidu/wise-invoke-app_*.js$domain=baidu.com
 
 ! *-------------------zhihu-------------------*
 zhihu.com###root > div.App > div:nth-child(2)
@@ -55,3 +58,21 @@ blog.csdn.net#%#//scriptlet('set-cookie', 'unlogin_scroll_step', '1')
 blog.csdn.net###comment
 blog.csdn.net##.spec_space
 blog.csdn.net#$#.aside-header-fixed { display: none !important; }
+||csdnimg.cn/release/blogv2/dist/mobile/js/detail-*.*.js
+
+! *-------------------jianshu-------------------*
+jianshu.com###note-fixed-ad-container
+jianshu.com##.call-app-btn
+jianshu.com##.collapse-tips
+jianshu.com##.download-app-guidance
+jianshu.com##.self-flow-ad
+jianshu.com##a[id^="web-note-ad"]
+jianshu.com##div[aria-label="amc-ad"]
+jianshu.com##section[aria-label="jianshu-ad"]
+jianshu.com#$#.collapse-free-content { overflow: auto !important; height: auto !important; }
+jianshu.com#$#.download-app-guidance { display: none !important; }
+jianshu.com#$#body { overflow: auto !important; }
+jianshu.com#?#div[id]:-abp-has(> .ad-badge)
+jianshu.com##.header-wrap
+jianshu.com##.note-graceful-button
+jianshu.com###footer
