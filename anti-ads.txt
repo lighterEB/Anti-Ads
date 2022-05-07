@@ -14,6 +14,15 @@ baijiahao.baidu.com###content_wrapper > div.headDeflectorContainer:first-child
 ||mbd.baidu.com/ztbox^$domain=baidu.com
 ||sm.bdimg.com/static/wiseindex/js/lib/transfer/common/mcp_invoke_*.js$domain=baidu.com
 ||sm.bdimg.com/static/wiseindex/amd_modules/@baidu/wise-invoke-app_*.js$domain=baidu.com
+||ada.baidu.com^
+||hanyu.baidu.com/static/asset/asset/fengchao.js$domain=baidu.com
+hanyu.baidu.com###fengchao_els
+mp.weixin.qq.com###content_bottom_area
+hanyu.baidu.com###download-bth
+hanyu.baidu.com##.suspens
+hanyu.baidu.com#$?#.expand { remove:true; }
+hanyu.baidu.com#%#AG_onLoad(function() {document.getElementsByClassName("zaoju-origin")[0].setAttribute("class","zaoju-mean mean");});
+hanyu.baidu.com#%#window.addEventListener('load', function() {var a=document.getElementById("base-mean"); a.className=a.className.replace("fold-content","");var b=document.getElementById("detail-mean"); b.className=b.className.replace("fold-content","");});
 
 ! *-------------------zhihu-------------------*
 zhihu.com###root > div.App > div:nth-child(2)
