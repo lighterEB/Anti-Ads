@@ -23,6 +23,13 @@ hanyu.baidu.com##.suspens
 hanyu.baidu.com#$?#.expand { remove:true; }
 hanyu.baidu.com#%#AG_onLoad(function() {document.getElementsByClassName("zaoju-origin")[0].setAttribute("class","zaoju-mean mean");});
 hanyu.baidu.com#%#window.addEventListener('load', function() {var a=document.getElementById("base-mean"); a.className=a.className.replace("fold-content","");var b=document.getElementById("detail-mean"); b.className=b.className.replace("fold-content","");});
+baike.baidu.com##.BK-after-content-wrapper > div[class][id] > a[onclick^="page.Mixedor.mixedOpen"][target="_blank"]
+baike.baidu.com##.BK-after-content-wrapper > ul[class][id] > li > a[onclick^="page.Mixedor.mixedOpen"][target="_blank"]
+baike.baidu.com##.pinzhuanWrap
+baike.baidu.com#?#.BK-after-content-wrapper > ul[class][id] > li:has(> a[onclick^="page.Mixedor.mixedOpen"][target="_blank"])
+baike.com###ad-xnsc
+baike.com##.ad_xuanban
+baike.baidu.com###Swupyvk11
 
 ! *-------------------zhihu-------------------*
 zhihu.com###root > div.App > div:nth-child(2)
