@@ -65,6 +65,12 @@ tieba.baidu.com##.open-app
 tieba.baidu.com##.tb-forum-user__right
 tieba.baidu.com##.wake-app
 ||sm.bdimg.com/static/wiseindex/js/$domain=baidu.com
+zhidao.baidu.com###qb-content div.businessvip-wrapper
+zhidao.baidu.com##.earn-points-exchange-gifts-bubble
+zhidao.baidu.com##a[class="cur"][href^="/mobile/board?"] > img
+zhidao.baidu.com##div[class^="cms-slide"] > p[class="cms-link-title"]
+zhidao.baidu.com#?#.wgt-ads
+zhidao.baidu.com,gratis.com##.share-area
 
 ! *-------------------zhihu-------------------*
 zhihu.com###root > div.App > div:nth-child(2)
