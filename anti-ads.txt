@@ -138,3 +138,9 @@ juejin.cn##.share-btn:not(.report-btn)
 juejin.cn#@#.share-btn
 juejin.im##.banner-section
 juejin.im##.feedAdsense
+
+
+! *-------------------weibo-------------------*
+weibo.cn##.login-box
+weibo.cn##.wrap
+||h5.sinaimg.cn/m/weibo-lite/js/smsLogin.*.js$domain=weibo.cn
