@@ -57,6 +57,11 @@ tieba.baidu.com##.nav-bar-bottom
 tieba.baidu.com##.only-lz
 tieba.baidu.com##.w-row.w-row-align-center.w-row-justify-start:nth-child(2)
 tieba.baidu.com##.recommend-title-open-app
+tieba.baidu.com#%#window.addEventListener('load', function() {var ads=document.getElementsByClassName("bottom-wrapper"); ads.forEach(function(item,index){item.parentNode.parentNode.parentNode.remove()});});
+tieba.baidu.com##.open-app-guide
+tieba.baidu.com##.feed-warp.gray-background
+tieba.baidu.com##.bottom-guide-box.bottom-guide-box
+tieba.baidu.com##.open-app
 
 ! *-------------------zhihu-------------------*
 zhihu.com###root > div.App > div:nth-child(2)
