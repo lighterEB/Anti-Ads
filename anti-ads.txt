@@ -64,6 +64,7 @@ tieba.baidu.com##.bottom-guide-box.bottom-guide-box
 tieba.baidu.com##.open-app
 tieba.baidu.com##.tb-forum-user__right
 tieba.baidu.com##.wake-app
+||sm.bdimg.com/static/wiseindex/js/$domain=baidu.com
 
 ! *-------------------zhihu-------------------*
 zhihu.com###root > div.App > div:nth-child(2)
