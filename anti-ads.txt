@@ -62,6 +62,8 @@ tieba.baidu.com##.open-app-guide
 tieba.baidu.com##.feed-warp.gray-background
 tieba.baidu.com##.bottom-guide-box.bottom-guide-box
 tieba.baidu.com##.open-app
+tieba.baidu.com##.tb-forum-user__right
+tieba.baidu.com##.wake-app
 
 ! *-------------------zhihu-------------------*
 zhihu.com###root > div.App > div:nth-child(2)
