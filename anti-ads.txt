@@ -3,7 +3,7 @@
 ! Powerd by T0s1x7
 ! Expires: 8 Hours
 ! Description: 手动整理常用网址去广告规则，更加符合个人习惯
-! Version: 2022-05-07 11:46:40（北京时间） 
+! Version: 2022-05-08（北京时间） 
 ! *-------------------baidu-------------------*
 ||mbdp02.bdstatic.com/static/landing-share/$domain=baijiahao.baidu.com
 ||s.bdstatic.com/common/openjs/$domain=baijiahao.baidu.com
@@ -127,3 +127,14 @@ jianshu.com#?#div[id]:-abp-has(> .ad-badge)
 jianshu.com##.header-wrap
 jianshu.com##.note-graceful-button
 jianshu.com###footer
+
+
+! *-------------------juejin-------------------*
+juejin.cn##.advertisement
+juejin.cn##.app-open-button
+juejin.cn##.app-download-sidebar-block
+juejin.cn##.recommend-box > .extension
+juejin.cn##.share-btn:not(.report-btn)
+juejin.cn#@#.share-btn
+juejin.im##.banner-section
+juejin.im##.feedAdsense
