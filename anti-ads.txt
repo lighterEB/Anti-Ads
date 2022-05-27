@@ -3,7 +3,7 @@
 ! Powerd by T0s1x7
 ! Expires: 24 Hours
 ! Description: 手动整理常用网址去广告规则，更加符合个人习惯
-! Version: 2022-05-08（北京时间） 
+! Version: 2022-05-28（北京时间） 
 ! *-------------------baidu-------------------*
 ||mbdp02.bdstatic.com/static/landing-share/$domain=baijiahao.baidu.com
 ||s.bdstatic.com/common/openjs/$domain=baijiahao.baidu.com
@@ -27,8 +27,22 @@ baike.baidu.com##.BK-after-content-wrapper > div[class][id] > a[onclick^="page.M
 baike.baidu.com##.BK-after-content-wrapper > ul[class][id] > li > a[onclick^="page.Mixedor.mixedOpen"][target="_blank"]
 baike.baidu.com##.pinzhuanWrap
 baike.baidu.com#?#.BK-after-content-wrapper > ul[class][id] > li:has(> a[onclick^="page.Mixedor.mixedOpen"][target="_blank"])
+baike.baidu.com###adLayerSideWrap
+baike.baidu.com##.after-content,#adLayerSideWrap
+baike.baidu.com##.baike-dynamic-wrapper
+baike.baidu.com##.pinzhuanWrap
+baike.baidu.com##A[onclick='page.Mixedor.mixedOpen(this,3)']
+baike.baidu.com##DIV[class='theme-container']
+baike.baidu.com##DIV[class='theme-margin']
+baike.baidu.com##[class="qtqy-container"],[class="yitiao-content J-yitiao-content"],[class="yitiao-title"]
+baike.baidu.com##[onclick^="page.Mixedor.mixedOpen(this,"]
+baike.baidu.com##div.right-ad,.bottom-promotion,.adArea-wrapper,#side_box_unionAd,#fc_guess_like_new
+baike.baidu.com$$div[class="relative-shop-"]
+baike.baidu.com$$div[class="s-items J-items"]
+baike.baidu.com$$div[id="J-super-layer-promote"]
 baike.com###ad-xnsc
 baike.com##.ad_xuanban
+baidu.com/api/wapui/getrelatedbusiness
 baike.baidu.com###Swupyvk11
 tieba.baidu.com###j_light_see_index
 tieba.baidu.com##.client_ad_banner
