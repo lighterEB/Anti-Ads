@@ -16,6 +16,7 @@ baijiahao.baidu.com###content_wrapper > div.headDeflectorContainer:first-child
 ||sm.bdimg.com/static/wiseindex/amd_modules/@baidu/wise-invoke-app_*.js$domain=baidu.com
 ||ada.baidu.com^
 ||hanyu.baidu.com/static/asset/asset/fengchao.js$domain=baidu.com
+baidu.com##.rb84b4fd0dde7
 hanyu.baidu.com###fengchao_els
 mp.weixin.qq.com###content_bottom_area
 hanyu.baidu.com###download-bth
