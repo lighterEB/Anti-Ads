@@ -165,3 +165,14 @@ juejin.im##.feedAdsense
 weibo.cn##.login-box
 weibo.cn##.wrap
 ||h5.sinaimg.cn/m/weibo-lite/js/smsLogin.*.js$domain=weibo.cn
+
+! *-------------------content farm-------------------*
+
+||bugjia.net^
+||www.cnblogs.com/Marydon20170307^
+||segmentfault.com^
+||whatismybrowser.com^
+||vircloud.net^
+||www.elecfans.com^
+||blog.csdn.net^
+
